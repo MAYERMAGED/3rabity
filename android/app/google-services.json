@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "741888219727",
+    "project_id": "arabity-1fc5a",
+    "storage_bucket": "arabity-1fc5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:741888219727:android:9f2f203a986e0e3c80e83a",
+        "android_client_info": {
+          "package_name": "com.example.abatiy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "741888219727-au5tqjb975ig6updo9auhb7h1haglmrj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.abatiy",
+            "certificate_hash": "6edc1e2ca07609cb725b44b08ba26860bafaa010"
+          }
+        },
+        {
+          "client_id": "741888219727-u7u2t8sbas34hp41troag0a75oufjlvp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-zv0xXCRFWzaWPBCH686CzTA_h3gvgsQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "741888219727-u7u2t8sbas34hp41troag0a75oufjlvp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
